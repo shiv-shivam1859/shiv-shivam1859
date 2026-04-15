@@ -33,5 +33,5 @@ This is more of a support tool for my learning and experiments, not the end goal
 - Grow Silicon Lab into a serious engineering project
 
 ## Links
-- Website: https://siliconv1.wixstudio.com/silicon-spac  
+- Website: https://siliconv1.wixstudio.com/silicon-space
 - Discord: https://discord.com/invite/RxbeXZZEmW
